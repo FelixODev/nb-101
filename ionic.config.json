@@ -1,0 +1,7 @@
+{
+  "name": "nb-101",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
